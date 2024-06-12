@@ -20,7 +20,7 @@ This application detects and recognizes customers' faces, ensuring that the face
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/your-repository/face-sign-recognition.git
+    git clone https://github.com/pacifiquem/face-sign-recognition.git
     cd face-sign-recognition
     ```
 
@@ -101,9 +101,6 @@ face-sign-recognition/
 - Ensure the `labels.txt` file includes the "OK" sign and matches the output format expected by the Keras model.
 - This application requires a webcam to function correctly.
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
+--------------------------------------------------------------------------------------------------------------------
 
----
-
-By following the instructions provided in this README, you should be able to set up and run the face and sign recognition system effectively. If you encounter any issues or have questions, please refer to the project's GitHub repository for further information and support.
+By following the instructions provided in this README, you should be able to set up and run the face and sign recognition system effectively. If you encounter any issues or have questions, please refer to the [project's GitHub repository](https://github.com/pacifiquem/face-sign-recognition) for further information and support.
